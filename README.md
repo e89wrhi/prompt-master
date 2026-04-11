@@ -62,4 +62,3 @@ To prevent gigantic, unreadable files, this repository utilizes an **Index/Examp
 3.  **The `eg.md` File:** Every folder contains an `eg.md` file charting real-world, high-quality examples of that prompt in action so you know what "good" looks like.
 
 ---
-[View Contributing Guide](./CONTRIBUTING.md) | [Report a Bug](https://github.com/your-repo/issues) | *Powered by Antigravity.*
